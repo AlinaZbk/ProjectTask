@@ -18,11 +18,11 @@ CLI TO-DO List
 ---
 
 ### Клонирование репозитория  
-`git clone https://github.com/AlinaZbk/go_ProjectTask.git`
+`git clone https://github.com/AlinaZbk/go_ProjectTask.git`  
 `cd go_ProjectTask`
 
 ### Компиляция и запуск
-`go build -o task`
+`go build -o task`  
 `./task`
 
 ---
